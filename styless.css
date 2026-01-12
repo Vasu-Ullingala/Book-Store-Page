@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.book-store-bg-container {
+    background-color: #1b1b1b;
+    height: 100vh;
+    background-size: cover;
+    padding: 24px;
+    font-family: "bree serif";
+}
+
+.home-page-main-heading {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.wings-card {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.apj-image {
+    height: 170px;
+    width: 110px;
+}
+
+.wings-card-details {
+    padding: 10px;
+}
+
+.wings-card-main-heading {
+    color: #183b56;
+    font-size: 15px;
+}
+
+.wings-card-description {
+    color: #06070d;
+    font-size: 11px;
+}
+
+.wings-card-author {
+    color: #9aa5b1;
+    font-size: 8px;
+}
+
+.wings-card-btn {
+    font-family: "roboto";
+    font-size: 14px;
+}
+
+.book-store-bottom-container {
+    margin-top: 8px;
+}
+
+.home-page-second-heading {
+    color: #e4e7eb;
+    font-size: 18px;
+}
+
+.wings-page-book-image {
+    margin-bottom: 10px;
+}
+
+.wings-page-bottom-image {
+    height: 120px;
+    width: 70px;
+}
+
+.wings-page-book-details {
+    padding-left: 9px;
+}
+
+.book-heading {
+    color: #e4e7eb;
+    font-size: 14px;
+}
+
+.book-author {
+    color: #9aa5b1;
+    font-size: 12px;
+}
+
+.book-details-page-container {
+    background-color: #1b1b1b;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    font-family: "bree serif";
+    padding: 15px;
+}
+
+.book-details-page-image {
+    height: 230px;
+    width: 170px;
+}
+
+.book-details-page-heading {
+    color: #ffffff;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.book-details-page-author {
+    color: #9aa5b1;
+    font-size: 12px;
+}
+
+.book-details-page-description {
+    color: #e4e7eb;
+    font-size: 11px;
+    text-align: start;
+    margin-left: 10px;
+}
+
+.book-details-yello-btn {
+    background-color: orange;
+    color: black;
+    border-style: none;
+    font-family: "roboto";
+}
+
+.book-details-blue-btn {
+    font-family: "roboto";
+}
